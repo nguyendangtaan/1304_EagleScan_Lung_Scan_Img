@@ -1,0 +1,2 @@
+Lung Pet: https://www.kaggle.com/datasets/phmthuthonh/lung-pet-ct-dx/data
+Normal: https://www.kaggle.com/datasets/fakaframe082/cc-ccii
